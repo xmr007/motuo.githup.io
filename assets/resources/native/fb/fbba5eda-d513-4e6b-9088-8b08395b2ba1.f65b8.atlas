@@ -1,0 +1,62 @@
+
+gs.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: false
+  xy: 511, 121
+  size: 324, 132
+  orig: 329, 135
+  offset: 2, 2
+  index: -1
+d2
+  rotate: false
+  xy: 511, 2
+  size: 328, 117
+  orig: 332, 119
+  offset: 2, 1
+  index: -1
+gs_g
+  rotate: false
+  xy: 837, 122
+  size: 93, 131
+  orig: 96, 134
+  offset: 1, 1
+  index: -1
+gs_h
+  rotate: true
+  xy: 841, 9
+  size: 111, 96
+  orig: 112, 97
+  offset: 1, 1
+  index: -1
+gs_hj
+  rotate: false
+  xy: 110, 56
+  size: 399, 197
+  orig: 402, 201
+  offset: 2, 2
+  index: -1
+gs_zi
+  rotate: true
+  xy: 2, 28
+  size: 225, 106
+  orig: 225, 107
+  offset: 0, 1
+  index: -1
+x1
+  rotate: false
+  xy: 932, 132
+  size: 344, 121
+  orig: 349, 127
+  offset: 2, 4
+  index: -1
+x2
+  rotate: false
+  xy: 939, 9
+  size: 344, 121
+  orig: 349, 127
+  offset: 2, 2
+  index: -1

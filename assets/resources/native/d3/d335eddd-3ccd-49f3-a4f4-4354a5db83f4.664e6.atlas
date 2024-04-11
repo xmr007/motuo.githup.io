@@ -1,0 +1,97 @@
+
+mrqd.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mr_di
+  rotate: false
+  xy: 2, 69
+  size: 334, 181
+  orig: 334, 181
+  offset: 0, 0
+  index: -1
+mr_gth
+  rotate: false
+  xy: 469, 4
+  size: 78, 78
+  orig: 79, 80
+  offset: 0, 1
+  index: -1
+mr_jb1
+  rotate: false
+  xy: 2, 7
+  size: 107, 60
+  orig: 112, 66
+  offset: 3, 2
+  index: -1
+mr_jb2
+  rotate: true
+  xy: 301, 24
+  size: 43, 31
+  orig: 44, 33
+  offset: 0, 1
+  index: -1
+mr_jb3
+  rotate: false
+  xy: 111, 2
+  size: 84, 65
+  orig: 85, 69
+  offset: 0, 2
+  index: -1
+mr_jb4
+  rotate: true
+  xy: 364, 7
+  size: 75, 103
+  orig: 78, 107
+  offset: 2, 2
+  index: -1
+mr_jb5
+  rotate: true
+  xy: 301, 2
+  size: 20, 42
+  orig: 22, 43
+  offset: 1, 0
+  index: -1
+mr_jb6
+  rotate: true
+  xy: 249, 15
+  size: 52, 50
+  orig: 56, 52
+  offset: 2, 2
+  index: -1
+mr_jb7
+  rotate: true
+  xy: 197, 13
+  size: 54, 50
+  orig: 56, 52
+  offset: 1, 2
+  index: -1
+mr_jb8
+  rotate: true
+  xy: 334, 36
+  size: 31, 28
+  orig: 31, 29
+  offset: 0, 1
+  index: -1
+mr_ren
+  rotate: false
+  xy: 696, 23
+  size: 256, 227
+  orig: 256, 227
+  offset: 0, 0
+  index: -1
+mr_zi
+  rotate: false
+  xy: 338, 84
+  size: 356, 82
+  orig: 356, 82
+  offset: 0, 0
+  index: -1
+mr_zi2
+  rotate: false
+  xy: 338, 168
+  size: 356, 82
+  orig: 356, 82
+  offset: 0, 0
+  index: -1

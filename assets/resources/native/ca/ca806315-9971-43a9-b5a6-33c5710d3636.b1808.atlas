@@ -1,0 +1,62 @@
+
+danqijiasu.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: true
+  xy: 1750, 2
+  size: 124, 252
+  orig: 124, 252
+  offset: 0, 0
+  index: -1
+b2
+  rotate: true
+  xy: 1750, 128
+  size: 124, 254
+  orig: 124, 254
+  offset: 0, 0
+  index: -1
+b3
+  rotate: true
+  xy: 1484, 124
+  size: 128, 264
+  orig: 128, 264
+  offset: 0, 0
+  index: -1
+b4
+  rotate: true
+  xy: 1199, 115
+  size: 137, 283
+  orig: 137, 283
+  offset: 0, 0
+  index: -1
+b5
+  rotate: true
+  xy: 905, 122
+  size: 130, 292
+  orig: 130, 292
+  offset: 0, 0
+  index: -1
+b6
+  rotate: true
+  xy: 607, 124
+  size: 128, 296
+  orig: 128, 296
+  offset: 0, 0
+  index: -1
+b7
+  rotate: true
+  xy: 305, 125
+  size: 127, 300
+  orig: 127, 300
+  offset: 0, 0
+  index: -1
+b8
+  rotate: true
+  xy: 2, 124
+  size: 128, 301
+  orig: 128, 301
+  offset: 0, 0
+  index: -1

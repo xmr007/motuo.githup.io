@@ -1,0 +1,76 @@
+
+cjch.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+csjj
+  rotate: false
+  xy: 900, 103
+  size: 410, 145
+  orig: 410, 145
+  offset: 0, 0
+  index: -1
+gs
+  rotate: false
+  xy: 546, 13
+  size: 333, 59
+  orig: 333, 59
+  offset: 0, 0
+  index: -1
+gzz
+  rotate: true
+  xy: 1857, 18
+  size: 230, 112
+  orig: 230, 112
+  offset: 0, 0
+  index: -1
+jsj
+  rotate: false
+  xy: 881, 11
+  size: 288, 61
+  orig: 288, 61
+  offset: 0, 0
+  index: -1
+jsz
+  rotate: false
+  xy: 1614, 188
+  size: 241, 60
+  orig: 241, 60
+  offset: 0, 0
+  index: -1
+lsj
+  rotate: false
+  xy: 2, 15
+  size: 542, 233
+  orig: 542, 233
+  offset: 0, 0
+  index: -1
+scj
+  rotate: false
+  xy: 1171, 2
+  size: 339, 99
+  orig: 339, 99
+  offset: 0, 0
+  index: -1
+thz
+  rotate: false
+  xy: 1312, 141
+  size: 300, 107
+  orig: 300, 107
+  offset: 0, 0
+  index: -1
+yqrx
+  rotate: false
+  xy: 1512, 26
+  size: 257, 113
+  orig: 257, 113
+  offset: 0, 0
+  index: -1
+zxz
+  rotate: false
+  xy: 546, 74
+  size: 352, 174
+  orig: 352, 174
+  offset: 0, 0
+  index: -1

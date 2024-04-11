@@ -1,0 +1,111 @@
+
+lihua.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: false
+  xy: 353, 92
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 393, 104
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 421, 110
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+d4
+  rotate: false
+  xy: 459, 119
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 2, 2
+  size: 133, 128
+  orig: 133, 128
+  offset: 0, 0
+  index: -1
+g1
+  rotate: true
+  xy: 604, 951
+  size: 431, 422
+  orig: 431, 422
+  offset: 0, 0
+  index: -1
+g2
+  rotate: true
+  xy: 604, 1384
+  size: 540, 515
+  orig: 540, 515
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 2, 724
+  size: 600, 598
+  orig: 600, 598
+  offset: 0, 0
+  index: -1
+qq1
+  rotate: false
+  xy: 2, 1324
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+qq2
+  rotate: true
+  xy: 2, 132
+  size: 590, 600
+  orig: 590, 600
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 443, 117
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: true
+  xy: 137, 79
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: true
+  xy: 191, 79
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: true
+  xy: 245, 79
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+xx4
+  rotate: true
+  xy: 299, 79
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1

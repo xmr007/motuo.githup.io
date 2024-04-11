@@ -1,0 +1,13 @@
+
+f.png
+size: 1024,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f
+  rotate: false
+  xy: 2, 2
+  size: 862, 7
+  orig: 1088, 298
+  offset: 82, 140
+  index: -1

@@ -1,0 +1,69 @@
+
+dg.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: false
+  xy: 268, 3
+  size: 130, 162
+  orig: 157, 191
+  offset: 16, 3
+  index: -1
+d2
+  rotate: false
+  xy: 400, 3
+  size: 130, 162
+  orig: 157, 191
+  offset: 16, 3
+  index: -1
+d3
+  rotate: false
+  xy: 532, 6
+  size: 123, 159
+  orig: 157, 191
+  offset: 20, 3
+  index: -1
+d4
+  rotate: false
+  xy: 134, 5
+  size: 132, 160
+  orig: 157, 191
+  offset: 14, 3
+  index: -1
+d5
+  rotate: false
+  xy: 2, 2
+  size: 130, 163
+  orig: 157, 191
+  offset: 14, 3
+  index: -1
+dg_d
+  rotate: false
+  xy: 1315, 507
+  size: 564, 494
+  orig: 564, 494
+  offset: 0, 0
+  index: -1
+dg_dd
+  rotate: true
+  xy: 2, 167
+  size: 834, 675
+  orig: 836, 700
+  offset: 2, 25
+  index: -1
+dg_t
+  rotate: true
+  xy: 657, 37
+  size: 128, 119
+  orig: 128, 119
+  offset: 0, 0
+  index: -1
+dg_xd
+  rotate: true
+  xy: 679, 202
+  size: 799, 634
+  orig: 831, 671
+  offset: 32, 36
+  index: -1

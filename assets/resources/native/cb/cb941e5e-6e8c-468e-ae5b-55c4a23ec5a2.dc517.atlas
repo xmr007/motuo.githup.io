@@ -1,0 +1,181 @@
+
+lihua.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: false
+  xy: 323, 1081
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 295, 1093
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 273, 1099
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+d4
+  rotate: false
+  xy: 162, 1108
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 579, 991
+  size: 133, 128
+  orig: 133, 128
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 714, 697
+  size: 431, 422
+  orig: 431, 422
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 1147, 604
+  size: 540, 515
+  orig: 540, 515
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 604, 4
+  size: 600, 598
+  orig: 600, 598
+  offset: 0, 0
+  index: -1
+qq1
+  rotate: false
+  xy: 1206, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+qq2
+  rotate: true
+  xy: 2, 399
+  size: 590, 600
+  orig: 590, 600
+  offset: 0, 0
+  index: -1
+sh1
+  rotate: true
+  xy: 228, 1105
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+sh10
+  rotate: false
+  xy: 192, 1106
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+sh2
+  rotate: false
+  xy: 93, 1110
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+sh3
+  rotate: false
+  xy: 80, 1112
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+sh4
+  rotate: false
+  xy: 2, 1113
+  size: 33, 6
+  orig: 33, 6
+  offset: 0, 0
+  index: -1
+sh5
+  rotate: false
+  xy: 125, 1110
+  size: 35, 9
+  orig: 35, 9
+  offset: 0, 0
+  index: -1
+sh6
+  rotate: false
+  xy: 37, 1113
+  size: 23, 6
+  orig: 23, 6
+  offset: 0, 0
+  index: -1
+sh7
+  rotate: true
+  xy: 62, 1113
+  size: 6, 16
+  orig: 6, 16
+  offset: 0, 0
+  index: -1
+sh8
+  rotate: false
+  xy: 175, 1106
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+sh9
+  rotate: false
+  xy: 253, 1101
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 212, 1106
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: true
+  xy: 363, 1068
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: true
+  xy: 417, 1068
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: true
+  xy: 471, 1068
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+xx4
+  rotate: true
+  xy: 525, 1068
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1

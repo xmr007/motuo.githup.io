@@ -1,0 +1,90 @@
+
+bike_00.png
+size: 1294,1013
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: false
+  xy: 1057, 285
+  size: 121, 131
+  orig: 121, 131
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: false
+  xy: 1133, 424
+  size: 159, 64
+  orig: 159, 64
+  offset: 0, 0
+  index: -1
+backwheel
+  rotate: true
+  xy: 835, 418
+  size: 295, 296
+  orig: 295, 296
+  offset: 0, 0
+  index: -1
+bikeBody
+  rotate: false
+  xy: 2, 22
+  size: 830, 493
+  orig: 830, 493
+  offset: 0, 0
+  index: -1
+bikeBody_burned
+  rotate: false
+  xy: 2, 517
+  size: 831, 494
+  orig: 832, 494
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 834, 2
+  size: 176, 254
+  orig: 176, 254
+  offset: 0, 0
+  index: -1
+frontwheel
+  rotate: false
+  xy: 835, 715
+  size: 296, 296
+  orig: 296, 296
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 834, 180
+  size: 221, 236
+  orig: 221, 236
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 1133, 713
+  size: 159, 109
+  orig: 163, 109
+  offset: 2, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 1133, 490
+  size: 133, 221
+  orig: 133, 221
+  offset: 0, 0
+  index: -1
+rearbar
+  rotate: true
+  xy: 1090, 29
+  size: 254, 178
+  orig: 254, 178
+  offset: 0, 0
+  index: -1
+suspension
+  rotate: false
+  xy: 1133, 824
+  size: 159, 187
+  orig: 159, 187
+  offset: 0, 0
+  index: -1

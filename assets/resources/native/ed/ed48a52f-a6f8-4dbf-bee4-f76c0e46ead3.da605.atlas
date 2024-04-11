@@ -1,0 +1,55 @@
+
+gzz.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gzz_di
+  rotate: false
+  xy: 384, 2
+  size: 260, 229
+  orig: 260, 229
+  offset: 0, 0
+  index: -1
+gzz_dian
+  rotate: true
+  xy: 2, 24
+  size: 472, 380
+  orig: 501, 410
+  offset: 9, 19
+  index: -1
+gzz_g
+  rotate: false
+  xy: 585, 350
+  size: 123, 146
+  orig: 127, 150
+  offset: 1, 1
+  index: -1
+gzz_xd
+  rotate: true
+  xy: 585, 239
+  size: 109, 43
+  orig: 127, 50
+  offset: 9, 4
+  index: -1
+gzz_xing
+  rotate: true
+  xy: 630, 250
+  size: 98, 93
+  orig: 102, 96
+  offset: 3, 2
+  index: -1
+gzz_zi
+  rotate: true
+  xy: 384, 233
+  size: 263, 102
+  orig: 263, 102
+  offset: 0, 0
+  index: -1
+gzz_zi2
+  rotate: true
+  xy: 488, 251
+  size: 245, 95
+  orig: 245, 95
+  offset: 0, 0
+  index: -1

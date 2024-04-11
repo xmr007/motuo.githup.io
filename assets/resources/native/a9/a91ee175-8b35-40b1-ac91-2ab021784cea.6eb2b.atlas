@@ -1,0 +1,62 @@
+
+thz.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s
+  rotate: true
+  xy: 127, 22
+  size: 51, 18
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+thz_ban
+  rotate: false
+  xy: 223, 100
+  size: 282, 151
+  orig: 319, 152
+  offset: 35, 0
+  index: -1
+thz_d1
+  rotate: false
+  xy: 352, 11
+  size: 127, 87
+  orig: 131, 91
+  offset: 2, 2
+  index: -1
+thz_d2
+  rotate: false
+  xy: 223, 10
+  size: 127, 88
+  orig: 131, 90
+  offset: 2, 1
+  index: -1
+thz_g
+  rotate: false
+  xy: 68, 6
+  size: 57, 67
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+thz_san
+  rotate: true
+  xy: 68, 75
+  size: 176, 153
+  orig: 176, 153
+  offset: 0, 0
+  index: -1
+thz_zi
+  rotate: true
+  xy: 2, 4
+  size: 247, 64
+  orig: 247, 64
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 127, 2
+  size: 46, 18
+  orig: 46, 19
+  offset: 0, 1
+  index: -1

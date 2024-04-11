@@ -1,0 +1,160 @@
+
+111.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boom1
+  rotate: false
+  xy: 2, 545
+  size: 615, 611
+  orig: 615, 611
+  offset: 0, 0
+  index: -1
+boom2
+  rotate: false
+  xy: 2, 1158
+  size: 847, 868
+  orig: 847, 868
+  offset: 0, 0
+  index: -1
+boom3
+  rotate: false
+  xy: 2, 2
+  size: 568, 541
+  orig: 568, 541
+  offset: 0, 0
+  index: -1
+boom4
+  rotate: false
+  xy: 851, 1424
+  size: 608, 602
+  orig: 608, 602
+  offset: 0, 0
+  index: -1
+boom5
+  rotate: false
+  xy: 1461, 1512
+  size: 291, 514
+  orig: 291, 514
+  offset: 0, 0
+  index: -1
+chejia1
+  rotate: true
+  xy: 572, 37
+  size: 393, 187
+  orig: 393, 187
+  offset: 0, 0
+  index: -1
+chejia2
+  rotate: true
+  xy: 761, 51
+  size: 379, 198
+  orig: 379, 198
+  offset: 0, 0
+  index: -1
+chejia3
+  rotate: false
+  xy: 851, 1190
+  size: 441, 232
+  orig: 441, 232
+  offset: 0, 0
+  index: -1
+chejia4
+  rotate: true
+  xy: 619, 432
+  size: 355, 221
+  orig: 355, 221
+  offset: 0, 0
+  index: -1
+chejia5
+  rotate: true
+  xy: 619, 789
+  size: 367, 217
+  orig: 367, 217
+  offset: 0, 0
+  index: -1
+chejia6
+  rotate: true
+  xy: 1754, 1660
+  size: 366, 216
+  orig: 366, 216
+  offset: 0, 0
+  index: -1
+chelun10
+  rotate: false
+  xy: 851, 1054
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+chelun11
+  rotate: false
+  xy: 987, 1054
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+chelun12
+  rotate: false
+  xy: 1436, 1098
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+chelun2
+  rotate: false
+  xy: 1294, 1146
+  size: 140, 134
+  orig: 140, 134
+  offset: 0, 0
+  index: -1
+chelun3
+  rotate: true
+  xy: 1896, 1524
+  size: 134, 132
+  orig: 134, 132
+  offset: 0, 0
+  index: -1
+chelun3-1
+  rotate: false
+  xy: 1436, 1234
+  size: 139, 137
+  orig: 139, 137
+  offset: 0, 0
+  index: -1
+chelun4
+  rotate: false
+  xy: 1577, 1235
+  size: 138, 136
+  orig: 138, 136
+  offset: 0, 0
+  index: -1
+chelun5
+  rotate: false
+  xy: 1603, 1373
+  size: 139, 137
+  orig: 139, 137
+  offset: 0, 0
+  index: -1
+chelun6
+  rotate: false
+  xy: 1461, 1373
+  size: 140, 137
+  orig: 140, 137
+  offset: 0, 0
+  index: -1
+chelun8
+  rotate: false
+  xy: 1294, 1282
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+chelun9
+  rotate: false
+  xy: 1754, 1518
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1

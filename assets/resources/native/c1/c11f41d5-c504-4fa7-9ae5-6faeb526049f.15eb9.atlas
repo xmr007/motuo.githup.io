@@ -1,0 +1,48 @@
+
+wy.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wy1
+  rotate: false
+  xy: 133, 2
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+wy2
+  rotate: false
+  xy: 292, 7
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+wy3
+  rotate: false
+  xy: 233, 5
+  size: 57, 22
+  orig: 57, 22
+  offset: 0, 0
+  index: -1
+wy4
+  rotate: false
+  xy: 233, 29
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+wy5
+  rotate: false
+  xy: 133, 18
+  size: 98, 43
+  orig: 98, 43
+  offset: 0, 0
+  index: -1
+wy6
+  rotate: false
+  xy: 2, 6
+  size: 129, 55
+  orig: 129, 55
+  offset: 0, 0
+  index: -1
